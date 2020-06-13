@@ -9,6 +9,6 @@ The goal of project is building a machine learning model to predict the dog bree
 # Refinement:
 The custom  CNN model form scratch has accuracy of 18% (151/836) and the loss is 3.4669. Although this model satisfy the benchmarking, the model can be improved more by using transfer learning. To create CNN from transfer learning, I used the Resnet101 which has 101 layers deep and pertained on ImageNet dataset. The performance of model is extremely better then custom CNN from scratch because it has 84% accuracy and  0.5704 loss.
 
-< img src="image/sample1.png" width="40%">
-< img src="image/sample2.png" width="40%">
-< img src="image/sample3.png" width="40%">
+<img src="image/sample1.png" width="40%">
+<img src="image/sample2.png" width="40%">
+<img src="image/sample3.png" width="40%">
